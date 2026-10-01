@@ -1,0 +1,14 @@
+{
+  "measured_on": "loopback SSE stream, real sockets and real arrival timestamps",
+  "n_traces": 48,
+  "coalesced_gap_fraction": 0.019197156350313438,
+  "clean_gap_dispersion_ms": 1.1936227333964777,
+  "flush_pool_size": 6055,
+  "flush_pool_median_ms": 0.26670005172491074,
+  "flush_log_mean": -8.408826206914007,
+  "flush_log_sigma": 1.3025187418527433,
+  "step_log_sigma": 0.09946856111637314,
+  "jitter_scale": 0.0,
+  "contam_median_steps": 2.0,
+  "contam_log_sigma": 0.8
+}
